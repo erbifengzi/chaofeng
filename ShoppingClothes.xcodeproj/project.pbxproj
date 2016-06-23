@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2209ABFB2580B8D2A0A56930 /* libPods-ShoppingClothes.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 14ACC328D1EC226BD4D9FD79 /* libPods-ShoppingClothes.a */; };
+		3F0285841D1C1E0100617A52 /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F0285831D1C1E0100617A52 /* AViewController.m */; };
 		3F422D0A1D07AA460076689D /* CustomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F422D091D07AA460076689D /* CustomButton.m */; };
 		3F422D101D081F490076689D /* DDMenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F422D0F1D081F490076689D /* DDMenuController.m */; };
 		3F422D181D0822020076689D /* RightController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F422D171D0822020076689D /* RightController.m */; };
@@ -1436,6 +1437,8 @@
 
 /* Begin PBXFileReference section */
 		14ACC328D1EC226BD4D9FD79 /* libPods-ShoppingClothes.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ShoppingClothes.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F0285821D1C1E0100617A52 /* AViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AViewController.h; sourceTree = "<group>"; };
+		3F0285831D1C1E0100617A52 /* AViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AViewController.m; sourceTree = "<group>"; };
 		3F422D081D07AA460076689D /* CustomButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CustomButton.h; path = ../CustomButton.h; sourceTree = "<group>"; };
 		3F422D091D07AA460076689D /* CustomButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CustomButton.m; path = ../CustomButton.m; sourceTree = "<group>"; };
 		3F422D0E1D081F490076689D /* DDMenuController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDMenuController.h; sourceTree = "<group>"; };
@@ -4500,6 +4503,8 @@
 				3F47B8A31D0717580021099E /* SchoolVC.m */,
 				3F47B8A01D0717580021099E /* MyVC.h */,
 				3F47B8A11D0717580021099E /* MyVC.m */,
+				3F0285821D1C1E0100617A52 /* AViewController.h */,
+				3F0285831D1C1E0100617A52 /* AViewController.m */,
 				3F68D7801D0EE25100F0A673 /* ProjuctVC.h */,
 				3F68D77E1D0EE24600F0A673 /* ProjuctVC.m */,
 			);
@@ -6170,6 +6175,7 @@
 				3F68D77F1D0EE24600F0A673 /* ProjuctVC.m in Sources */,
 				3F68D7B01D100AAF00F0A673 /* SexScrollView.m in Sources */,
 				3F47B8B41D071C0E0021099E /* ClassificationVC.m in Sources */,
+				3F0285841D1C1E0100617A52 /* AViewController.m in Sources */,
 				3F68D7681D0C050400F0A673 /* GetBaseByASI.m in Sources */,
 				3F68D7731D0ED27D00F0A673 /* MyViewController.m in Sources */,
 				3F68D76E1D0E8C0000F0A673 /* XLPlainFlowLayout.m in Sources */,
